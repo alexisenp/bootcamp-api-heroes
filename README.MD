@@ -1,6 +1,6 @@
 # Ver Live Demo
 
-[Ver Live Demo AquíS](https://alexisenp.github.io/bootcamp-api-heroes/)
+[Ver Live Demo Aquí](https://alexisenp.github.io/bootcamp-api-heroes/)
 
 
 # SuperHero Finder
