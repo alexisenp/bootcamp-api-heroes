@@ -1,12 +1,15 @@
+/* Estilos para la imagen principal dentro de la sección .main-image */
 .main-image img {
-    width: 40%; 
-    display: block; 
-    margin-left: auto;
-    margin-right: auto;
+    width: 40%; /* La imagen ocupa el 40% del ancho del contenedor */
+    display: block; /* Se asegura que la imagen sea tratada como un bloque */
+    margin-left: auto; /* Centra la imagen horizontalmente */
+    margin-right: auto; /* Centra la imagen horizontalmente */
 }
+
+/* Estilos para la sección de búsqueda */
 .search-section {
-    width: 40%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 40%; /* La sección de búsqueda ocupa el 40% del ancho del contenedor */
+    display: block; /* Se asegura que el contenedor de la búsqueda sea tratado como un bloque */
+    margin-left: auto; /* Centra el formulario de búsqueda horizontalmente */
+    margin-right: auto; /* Centra el formulario de búsqueda horizontalmente */
 }
