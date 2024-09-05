@@ -11,9 +11,10 @@ $(document).ready(function () {
   $('#boton-buscar-nuevo').on('click', function (event) {
     $('.search-section').removeClass('d-none');
     $('.result-section').addClass('d-none');
+    $('#valor-a-buscar').val('');
   });
 
-  //Capturar la información ingresada mediante eventos del DOM con jQuery.
+
   function capturaDeInformacion() {
     let valorABuscar = $('#valor-a-buscar').val();
     if (esNumero(valorABuscar)) {
