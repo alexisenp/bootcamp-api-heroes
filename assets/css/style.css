@@ -1,0 +1,12 @@
+.main-image img {
+    width: 40%; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-section {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
